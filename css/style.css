@@ -443,7 +443,7 @@ footer .credit {
 }
 
 footer .credit a {
-    color: var(--bg);
+    color: #fff;
     font-weight: 700;
 }
 
