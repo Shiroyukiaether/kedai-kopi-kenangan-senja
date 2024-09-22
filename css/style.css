@@ -447,6 +447,10 @@ footer .credit a {
     font-weight: 700;
 }
 
+footer .credit a:hover {
+    color: var(--bg)
+}
+
 /* Modal Box */
 /* Item Detail */
 .modal {
